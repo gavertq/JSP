@@ -10,8 +10,8 @@
 	<h1>post 전송 방식</h1>
 	<form action="postMethod_test.jsp" method="post">	
 		<input type="text" name="num" placeholder="숫자"><br>
-		<input type="radio" name="male" value="남">남
-		<input type="radio" name="female" value="여">여<br>
+		<input type="radio" name="ra" value="남">남
+		<input type="radio" name="ra" value="여">여<br>
 		<input type="submit" value="제출"><br>
 	</form>
 
